@@ -1,5 +1,4 @@
-
-# Hi, I am Arjun Sutradhar 👋
+# Hi, I am Arjun Sutradhar
 
 ### Cloud Security & DevSecOps Engineer
 
@@ -22,27 +21,27 @@ I work across cloud platforms, Infrastructure as Code, container orchestration, 
 ## Featured Cloud Security & DevSecOps Projects
 
 ### 1. Secure AWS Landing Zone with Terraform
-[![Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/ssdarjun/secure-aws-landing-zone-terraform)
+<a href="https://github.com/ssdarjun/secure-aws-landing-zone-terraform" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github" alt="Repository"></a>
 
 An enterprise-ready, modular AWS landing zone provisioned using Terraform, designed with strict zero-trust principles, automated compliance scanning, and isolated multi-tier network architecture.
 
 ### 2. DevSecOps CI/CD Pipeline Boilerplate
-[![Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/ssdarjun/devsecops-cicd-pipeline-boilerplate)
+<a href="https://github.com/ssdarjun/devsecops-cicd-pipeline-boilerplate" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github" alt="Repository"></a>
 
 A production-grade CI/CD pipeline built with GitHub Actions that automates build, test, and security gate validation for containerized applications. It enforces shift-left security by integrating SAST, SCA, and automated container scanning.
 
 ### 3. Linux Server Hardening Automation
-[![Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/ssdarjun/linux-server-hardening-automation)
+<a href="https://github.com/ssdarjun/linux-server-hardening-automation" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github" alt="Repository"></a>
 
 Comprehensive Bash and Ansible automation scripts designed to harden Ubuntu/Linux production servers to CIS (Center for Internet Security) Benchmarks, eliminating default misconfigurations and securing the OS perimeter.
 
 ### 4. Kubernetes Cluster Security
-[![Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/ssdarjun/k8s-hardened-cluster-security)
+<a href="https://github.com/ssdarjun/k8s-hardened-cluster-security" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github" alt="Repository"></a>
 
 Demonstration of enterprise-grade Kubernetes (K8s) security best practices, microservice isolation, and secure container design patterns.
 
 ### 5. Cloud Compliance & Threat Detection
-[![Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/ssdarjun/cloud-compliance-and-threat-detection)
+<a href="https://github.com/ssdarjun/cloud-compliance-and-threat-detection" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github" alt="Repository"></a>
 
 Infrastructure security monitoring scripts, alerting rules, and compliance configurations designed to track real-time security events, unauthorized API calls, and cloud resource drift.
 
@@ -136,9 +135,9 @@ Infrastructure security monitoring scripts, alerting rules, and compliance confi
 
 ## Connect With Me
 
-- **GitHub:** [@ssdarjun](https://github.com/ssdarjun)
-- **LinkedIn:** [https://www.linkedin.com/in/arjun-sutradhar]
-- **Email:** [arjunsutradhar1999@icloud.com](arjunsutradhar1999@icloud.com)
+- **GitHub:** <a href="https://github.com/ssdarjun" target="_blank" rel="noopener noreferrer">@ssdarjun</a>
+- **LinkedIn:** <a href="https://www.linkedin.com/in/arjun-sutradhar" target="_blank" rel="noopener noreferrer">arjun-sutradhar</a>
+- **Email:** <a href="mailto:arjunsutradhar1999@icloud.com" target="_blank" rel="noopener noreferrer">arjunsutradhar1999@icloud.com</a>
 
 ---
 
