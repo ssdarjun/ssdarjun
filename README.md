@@ -28,7 +28,7 @@ An enterprise-ready, modular AWS landing zone provisioned using Terraform, desig
 ### 2. DevSecOps CI/CD Pipeline Boilerplate
 <a href="https://github.com/ssdarjun/devsecops-cicd-pipeline-boilerplate" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github" alt="Repository"></a>
 
-A production-grade CI/CD pipeline built with GitHub Actions that automates build, test, and security gate validation for containerized applications. It enforces shift-left security by integrating SAST, SCA, and automated container scanning.
+A production-grade CI/CD pipeline built with **GitHub Actions** that automates build, test, and security gate validation for containerized Python applications. It enforces **shift-left security** by integrating SAST, SCA, container image scanning, and automated quality gates — all before code reaches production.
 
 ### 3. Linux Server Hardening Automation
 <a href="https://github.com/ssdarjun/linux-server-hardening-automation" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github" alt="Repository"></a>
